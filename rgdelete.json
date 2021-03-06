@@ -1,0 +1,9 @@
+{
+  "region" : {
+    "deltime-ms": 2628000000,
+    "rg-del": true,
+    "rg-removemembers": true,
+    "rg-delprivate": true,
+    "rg-reprivate-availability": true
+  }
+}
